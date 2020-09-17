@@ -5,4 +5,4 @@ interpreting, translating, analysing and parsing variations of the lambda calcul
 known to be Turing complete. These challenges give additional insights into the
 mechanisms used to implement functional languages, practice with some advanced functional
 programming techniques such as pattern matching over recursive data types, complex recursion, and
-the use of monads in parsing. Each challenge is independent of another.
+the use of monads in parsing. Each challenge is independent of each other.
